@@ -12,9 +12,6 @@ My GitHub profile is a testament to my diverse range of skills and projects. Fro
 ## Commitment to Diversity and Inclusion 🌍
 In addition to my technical expertise, I'm deeply committed to the principles of diversity, equity, and inclusion. 🌍 I believe that fostering a collaborative and inclusive environment is essential for driving innovation and creating meaningful impact. 💡
 
-## Passion Beyond Profession 💼
-Despite being a professional at TCS, I'm actively engaged in creating projects as it's not just my job but also my passion. 💼
-
 ## Eager to Collaborate 🤝
 As you explore my GitHub profile, you'll find a collection of projects that demonstrate my versatility, attention to detail, and passion for creating cutting-edge solutions. 🚀 I'm always eager to learn and grow, and I welcome the opportunity to collaborate with like-minded individuals who share my passion for technology and its potential to transform the world. 🌍
 
