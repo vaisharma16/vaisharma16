@@ -4,6 +4,7 @@
 *"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." – Albert Schweitzer*
 
 Mumbai, Maharashtra, India | [LinkedIn](https://www.linkedin.com/)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vaisharma16.repoName)
 
 ## Passionate Software Engineer 💻
 Hey there! 👋 I'm Vaibhav Sharma, currently working as a software engineer at Tata Consultancy Services (TCS), specializing in Pega development on low-code/no-code platforms. I’m deeply passionate about exploring the intersection of technology and innovation, particularly in data science, machine learning, and AI/ML domains. My goal is to keep pushing boundaries and contributing to impactful solutions in these fields. Throughout my academic and professional journey, I've consistently demonstrated a keen interest in exploring the latest advancements in technology and applying them to solve real-world problems. 🤖
